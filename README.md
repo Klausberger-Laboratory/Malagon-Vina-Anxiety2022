@@ -1,5 +1,7 @@
 # Malagon-Vina-Anxiety2022
 
+This repository contains the pre-processed data for the eLife publication Malagon-Vina et al:  https://doi.org/10.7554/eLife.83012
+
 Manuscript_data.mat has several files with the pre-processed raw data.
  
 There are two types of data. One belongs to the EPM (elevated plus maze), and the other to the ELM (elevated linear maze).
